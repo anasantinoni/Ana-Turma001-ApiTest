@@ -1,16 +1,13 @@
-# API test automation with Jest and PactumJS
+# API para a prova de Automação de test automation with Jest and PactumJS
 
 > Simple integration between JestJS and PactumJS.
 
-## GitHub Actions
-
-[![Node.js CI](https://github.com/ugioni/integration-tests-jest/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/ugioni/integration-tests-jest/actions/workflows/node.js.yml)
-
-## SonarCloud
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ugioni_integration-tests-jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ugioni_integration-tests-jest)
-
 # Getting Started
+
+## Comandos a mais para rodar no terminal 
+
+npm install --save-dev jest ts-jest @types/jest
+npm install axios
 
 ### Pactum docs:
  - [PactumJS](https://pactumjs.github.io/)
