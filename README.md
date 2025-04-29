@@ -6,8 +6,8 @@
 
 ## Comandos a mais para rodar no terminal 
 
-npm install --save-dev jest ts-jest @types/jest
-npm install axios
+ 1. `npm install --save-dev jest ts-jest @types/jest`
+ 1. `npm install axios`
 
 ### Pactum docs:
  - [PactumJS](https://pactumjs.github.io/)
